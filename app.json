@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "hackutd2026",
-    "slug": "hackutd2026",
+    "name": "PoyoVault",
+    "slug": "poyovault",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "hackutd2026",
+    "scheme": "poyovault",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
@@ -37,7 +37,7 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true,
-      "baseUrl": "/HackUTD2026"
+      "baseUrl": "/poyovault"
     }
   }
 }
